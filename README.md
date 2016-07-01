@@ -6,6 +6,8 @@ Inspired by Daniel Shiffman's [3D Supershapes Processing tutorial](https://www.y
 
 ## Usage 
 
+[![NPM](https://nodei.co/npm/glsl-superformula.png)](https://nodei.co/npm/glsl-superformula/)
+
 ``` glsl
 #pragma glslify: superformula = require('glsl-superformula')
 
