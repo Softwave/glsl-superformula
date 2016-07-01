@@ -4,6 +4,9 @@ A GLSL function for generating 3D [supershapes](https://en.wikipedia.org/wiki/Su
 
 Inspired by Daniel Shiffman's [3D Supershapes Processing tutorial](https://www.youtube.com/watch?v=akM4wMZIBWg). 
 
+[Demo](https://softwave.github.io/glsl-superformula/)
+
+
 ## Screenshots
 
 ![screenshot](http://i.imgur.com/tA1uRcf.png)
