@@ -1,0 +1,38 @@
+{
+  "name": "glsl-superformula",
+  "version": "1.0.0",
+  "description": "A GLSL function for generating supershapes.",
+  "main": "index.glsl",
+  "license": "MIT",
+  "scripts": {
+    "start": "beefy --live=true demo.js:bundle.js -- -t glslify",
+    "bundle": "browserify demo.js -o bundle.js -t glslify"
+  },
+  "author": {
+    "name": "JC Leyba",
+    "email": "jcleyba92@gmail.com",
+    "url": "http://s0ftwave.com/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "a-big-triangle": "^1.0.0",
+    "beefy": "^2.1.3",
+    "browserify": "^9.0.3",
+    "canvas-fit": "^1.3.0",
+    "gl-context": "^0.1.1",
+    "gl-shader": "^4.0.0",
+    "gl-toy": "^2.0.3",
+    "glsl-raytrace": "^1.0.0",
+    "glsl-sdf-normal": "^1.0.0",
+    "glsl-turntable-camera": "^1.0.0",
+    "glslify": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Softwave/glsl-superformula.git"
+  },
+  "homepage": "https://github.com/Softwave/glsl-superformula",
+  "bugs": {
+    "url": "https://github.com/Softwave/glsl-superformula/issues"
+  }
+}
