@@ -1,4 +1,4 @@
-precision mediump float;
+precision highp float;
 
 uniform float iGlobalTime;
 uniform vec2  iResolution;
@@ -27,10 +27,10 @@ float supershape(vec3 p) {
 }
 
 vec2 doModel(vec3 p) {
-	float id = 0.0;
-	float d  = supershape(p);
+  float id = 0.0;
+  float d  = supershape(p);
 
-	return vec2(d, id);
+  return vec2(d, id);
 }
 
 
