@@ -31,6 +31,11 @@
     "type": "git",
     "url": "git://github.com/Softwave/glsl-superformula.git"
   },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "webgl"
+  ],
   "homepage": "https://github.com/Softwave/glsl-superformula",
   "bugs": {
     "url": "https://github.com/Softwave/glsl-superformula/issues"
