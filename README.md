@@ -23,3 +23,7 @@ vec2 doModel(vec3 p) {
 }
 
 ```
+
+## License
+
+MIT. See [LICENSE.md](https://github.com/Softwave/glsl-superformula/blob/master/LICENSE.md) for details.
