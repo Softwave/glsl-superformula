@@ -1,6 +1,6 @@
 {
   "name": "glsl-superformula",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A GLSL function for generating supershapes.",
   "main": "index.glsl",
   "license": "MIT",
